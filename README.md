@@ -1,0 +1,1 @@
+# resumo-criacao-de-maquina-virtual-azure
